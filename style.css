@@ -3,7 +3,7 @@
 :root{
     --cor-de-fundo: #e5e5e5;
     --branco: #FFFFFF;
-    --amarelo:  #FECD2F;
+    --amarelo:  #826bb8;
     --roxo-degrade: linear-gradient(94.49deg,  #733887 35.48%,  #C75EEB 143.32%);
 
 }
@@ -13,5 +13,5 @@ body{
 }
 
 @media screen and (min-width:1024px) {
-    body{background: rgb(146, 112, 112);}
+    body{background: rgb(104, 120, 173);}
 }
